@@ -1,2 +1,6 @@
-# larahati
-Segala curhatan selama dekat sama laravel
+---
+description: Cerita awalnya gini sih
+---
+
+# 😐 Kenalan Pertama
+

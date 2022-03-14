@@ -13,6 +13,8 @@ Asalkan dapat menyelesaikan masalah dan berkelanjutan, dah okehlah itu.
 
 Alasan saya tidak menggunakan prosedural biasa adalah karena sisi keamanan dan sisi lemahnya ngoding tentu akan membuat banyak celah. Namun sebenarnya ini pondasi yang sangat baik. Orang yang sudah bisa dasar dia akan paham lebih baik tentang cara kerjanya dan tentu akan bisa menjawab "kenapa?" ini dan itu.
 
+Pengalaman saya ketika belajar untuk membangun sebuah framework dari dasar sama seperti membangun linux from scratch membuat saya banyak berfikir dan prosesnya sangat mengasikkan. Kita mengetahui apa yang kita butuhkan dan membuat fungsi-fungsi yang akan difungsikan dengan baik dan efektif sesuai dengan tugas pokoknya.
+
 2009 dan sekarang sudah 2022, beberapa tahun itu saya mengenal dunia teknologi lewat web.&#x20;
 
 Ada hal yang unik dari laravel yakni "pengembangnya". Walaupun laravel dan beberapa framework php base dari symponik namun pengalaman sebagai artisannya membuat kita jadi lebih dekat.
@@ -47,3 +49,12 @@ Coba lihat dibawah ini. Laravel merupakan topik paling di cari di Bali, di pulau
 
 ![Minat Laravel di Indonesia](.gitbook/assets/image.png)
 
+Sedangkan pencari codeigniter datang dari&#x20;
+
+![Peminat Codeigniter](<.gitbook/assets/image (2).png>)
+
+Jadi singkatnya laravel itu mudah karena benar-benar dimudahkan dari pakage yang ada dan juga komunitas yang besar.
+
+Untuk pengembagan ke arah SaaS, laravel enak dan sudah banyak bukti.
+
+Untuk lainnya nanti akan diceritakan nanti...

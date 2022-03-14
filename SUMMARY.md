@@ -1,5 +1,5 @@
 # Table of contents
 
-* [😐 Kenalan Pertama](README.md)
-* [Pengenalan](master.md)
+* [Kenalan Pertama Larahati](README.md)
+* [Persiapan Alat Kerja](master.md)
 * [Instalasai](instalasai.md)

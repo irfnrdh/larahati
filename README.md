@@ -1,4 +1,8 @@
-# 😐 Kenalan Pertama
+---
+description: Sedikit cerita dari pengalaman saya tentang Laravel
+---
+
+# Kenalan Pertama Larahati
 
 Cerita tentang perjalanan @irfnrdh mengenal laravel lebih dalam. Jadi laravel pertama kenal udah lama 2018 lalu. Saat itu rasanya laravel ini kok aneh banget gitu kenapa dikit-dikit artisan terus kek gak berasa.&#x20;
 
@@ -56,5 +60,7 @@ Sedangkan pencari codeigniter datang dari&#x20;
 Jadi singkatnya laravel itu mudah karena benar-benar dimudahkan dari pakage yang ada dan juga komunitas yang besar.
 
 Untuk pengembagan ke arah SaaS, laravel enak dan sudah banyak bukti.
+
+Oh ya laravel termasuk yang cepat update untuk integrasi ke teknologi yang lebih baru seperti penggunaan doker, integrasi ke teknologi front-end dan lainnya deh.
 
 Untuk lainnya nanti akan diceritakan nanti...

@@ -1,6 +1,4 @@
----
-description: Cerita awalnya gini sih
----
+# Larahati
 
-# 😐 Kenalan Pertama
+Cerita tentang perjalanan @irfnrdh mengenal laravel lebih dalam
 

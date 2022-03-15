@@ -7,6 +7,8 @@
 * [Berapa Gaji Programmer Laravel?](1.-kenapa-laravel/berapa-gaji-programmer-laravel.md)
 * [Kenapa Saya Harus Belajar Laravel?](1.-kenapa-laravel/kenapa-saya-harus-belajar-laravel.md)
 * [Belajar Laravel Mulai Dari Mana?](1.-kenapa-laravel/belajar-laravel-mulai-dari-mana.md)
+* [Tantangan Belajar](1.-kenapa-laravel/tantangan-belajar/README.md)
+  * [Tantangan Level Pemula](1.-kenapa-laravel/tantangan-belajar/tantangan-level-pemula.md)
 
 ## 2. Laravel Dasar
 

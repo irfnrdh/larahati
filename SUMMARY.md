@@ -3,9 +3,10 @@
 ## 1. Kenapa Laravel ?
 
 * [Kenalan Pertama Larahati](README.md)
+* [Apa yang bisa dibangun dengan Laravel?](1.-kenapa-laravel/apa-yang-bisa-dibangun-dengan-laravel.md)
+* [Berapa Gaji Programmer Laravel?](1.-kenapa-laravel/berapa-gaji-programmer-laravel.md)
 * [Kenapa Saya Harus Belajar Laravel?](1.-kenapa-laravel/kenapa-saya-harus-belajar-laravel.md)
 * [Belajar Laravel Mulai Dari Mana?](1.-kenapa-laravel/belajar-laravel-mulai-dari-mana.md)
-* [Berapa Gaji Programmer Laravel?](1.-kenapa-laravel/berapa-gaji-programmer-laravel.md)
 
 ## 2. Laravel Dasar
 

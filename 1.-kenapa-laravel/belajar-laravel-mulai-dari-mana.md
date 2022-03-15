@@ -11,3 +11,7 @@ Mulai dari mana? mulai lah dari niat yang baik. baru bergeraklah!
 ### Laravel Roadmap Learning Path
 
 {% embed url="https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path" %}
+
+{% embed url="https://laravel-news.com/category/tutorials" %}
+
+{% embed url="https://laravel.com/docs/9.x" %}

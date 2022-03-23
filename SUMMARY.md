@@ -24,9 +24,9 @@
 
 * [Page 1](4.-laravel-mahir/page-1.md)
 
-## Group 1
+## Tutorial
 
-* [Page 2](group-1/page-2.md)
+* [Laravel 9 Simple Crud](tutorial/laravel-9-simple-crud.md)
 
 ## 3. Best Practice
 
